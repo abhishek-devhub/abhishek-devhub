@@ -30,7 +30,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-HTML, CSS, JavaScript, React, Next.js, Tailwind CSS  
+HTML, CSS, JavaScript, React, Next.js, Tailwind CSS , TypeScript  
 
 **Backend:**  
 Node.js, Express.js  
